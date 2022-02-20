@@ -6,3 +6,5 @@
 ![image3](https://user-images.githubusercontent.com/69710791/154839878-7dc45d88-2179-4fee-b8e7-0972236106d4.png)
 
 ![image4](https://user-images.githubusercontent.com/69710791/154839907-10228481-161a-4314-8473-ba33bd6447f9.jpg)
+
+https://github.com/misbah4064/face_mask_detection/blob/master/mask_recog.h5?raw=true
