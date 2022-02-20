@@ -7,4 +7,4 @@
 
 ![image4](https://user-images.githubusercontent.com/69710791/154839907-10228481-161a-4314-8473-ba33bd6447f9.jpg)
 
-https://github.com/misbah4064/face_mask_detection/blob/master/mask_recog.h5?raw=true
+mask_recog.h5
